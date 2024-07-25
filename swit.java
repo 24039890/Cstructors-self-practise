@@ -26,6 +26,10 @@ public class swit{
         System.out.println(" just watch cartoons bro");
         break;
 
+
+        case 10:
+        System.out.println(8);
+        break;
         default:
         System.out.println(" see your tommorow bitch");
 
@@ -36,6 +40,6 @@ public class swit{
       
   }
 
-
+/* we can use the switch to save time if we have a bunch of statements that wants to be executed today */
 
 }
