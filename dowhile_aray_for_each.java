@@ -13,8 +13,8 @@ import java.util.Scanner;
 
      System.out.println(" welcome to a vodacom app!!   dial the keynumbers to recieve our service  ");
        char choice;
-       
-      
+        String x=Big.nextLine();
+    if( x .equals( *100#")){ 
         String arr[]={ "0.balance" ," 1. buy data bundle" ," 2.advance airtime "," 3. buy voice-voice   " ," 4.vodacom shake every dAY", "5. service"};
       do{
             for( String x : arr){
@@ -26,7 +26,7 @@ import java.util.Scanner;
          } while(choice ==arr.length+1);
       
           System.out.println(" /n");
-
+    
       switch(choice){ 
 
         case '0':
@@ -516,7 +516,8 @@ import java.util.Scanner;
 
       }
     }
-}
+        
+    }
   }
 
             

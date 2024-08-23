@@ -3,8 +3,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 
-
-
 public class TIMEFRAMER{
    public static void main(String [] args){
 
@@ -33,14 +31,14 @@ public class TIMEFRAMER{
    Calendar date =  Calendar.getInstance();
    date.set(Calendar.YEAR,2024);
    date.set(Calendar.MONTH,Calendar.AUGUST);
-   date.set(Calendar.DAY_OF_MONTH,17);
+   date.set(Calendar.DAY_OF_MONTH,19);
    date.set(Calendar.HOUR_OF_DAY,22);
-   date.set(Calendar.MINUTE,9);
+   date.set(Calendar.MINUTE,23);
    date.set(Calendar.SECOND,0);
    date.set(Calendar.MILLISECOND,0);
 
   // timer.schedule(TASK, date.getTime());
-  timer.scheduleAtFixedRate(TASK,700,1);
+  timer.scheduleAtFixedRate(TASK,date.getTime(), 0);
 
   }
 
