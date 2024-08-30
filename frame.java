@@ -20,7 +20,7 @@ public class frame {
         frame.setVisible(true);
           
         
-        
+        System.out.println(" so bea");
 
 
     }
