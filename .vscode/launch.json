@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "collect",
+            "request": "launch",
+            "mainClass": "collect",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "privateac",
+            "request": "launch",
+            "mainClass": "privateac",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "recursive",
+            "request": "launch",
+            "mainClass": "recursive",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "me6",
+            "request": "launch",
+            "mainClass": "me6",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "me5",
+            "request": "launch",
+            "mainClass": "me5",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "me",
+            "request": "launch",
+            "mainClass": "me",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "rercusing",
+            "request": "launch",
+            "mainClass": "rercusing",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "cody",
+            "request": "launch",
+            "mainClass": "cody",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
             "name": "gamet",
             "request": "launch",
             "mainClass": "gamet",
