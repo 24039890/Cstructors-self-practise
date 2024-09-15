@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stackren",
+            "request": "launch",
+            "mainClass": "stackren",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "JAVA CODE 1321 VISUAL CODE_40c72d9e"
+        },
+        {
+            "type": "java",
             "name": "collect",
             "request": "launch",
             "mainClass": "collect",

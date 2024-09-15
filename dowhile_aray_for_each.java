@@ -13,8 +13,8 @@ import java.util.Scanner;
 
      System.out.println(" welcome to a vodacom app!!   dial the keynumbers to recieve our service  ");
        char choice;
-        String x=Big.nextLine();
-    if( x .equals( *100#")){ 
+        String v=Big.nextLine();
+
         String arr[]={ "0.balance" ," 1. buy data bundle" ," 2.advance airtime "," 3. buy voice-voice   " ," 4.vodacom shake every dAY", "5. service"};
       do{
             for( String x : arr){
@@ -466,8 +466,8 @@ import java.util.Scanner;
                 char choi1;   
                 String arra[]={"1.summer shake", " back"}; 
                 do { 
-                    for(String v:arra){
-                    System.out.println(v);
+                    for(String n:arra){
+                    System.out.println(n);
                     }
                     choi1=(char)System.in.read();
                 } while (choi1==arra.length+1);
@@ -485,8 +485,8 @@ import java.util.Scanner;
                 char choi11;   
                 String arra1[]={"1.summer shake", " back"}; 
               do { 
-                  for(String v:arra1){
-                  System.out.println(v);
+                  for(String x:arra1){
+                  System.out.println(x);
                   }
                   choi11=(char)System.in.read();
                 } while (choi11==arra1.length+1);
