@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742934571 source:c:\users\hp\documents\codeblocksprojects\roundingwholedecimsl\main.cpp
+	<iostream>
+	<cmath>
+
